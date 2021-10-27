@@ -50,6 +50,7 @@ body {
 
 .controls .controls__colors {
   display: flex;
+  margin-bottom: 50px;
 }
 
 .controls__colors .controls__color {
